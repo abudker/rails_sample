@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hav",
+				"have_selector"
+			],
+			[
+				"h",
+				"Home"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/abudker/workspace/rails/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/abudker/workspace/rails/sample_app/Gemfile",
+		"/Users/abudker/workspace/rails/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/users/new.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/app/helpers/application_helper.rb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/config/routes.rb",
+		"/Users/abudker/workspace/rails/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/abudker/workspace/rails/sample_app/spec/models/user_spec.rb",
+		"/Users/abudker/workspace/rails/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/layouts/application.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/users/show.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/app/models/user.rb",
+		"/Users/abudker/workspace/rails/sample_app/app/controllers/users_controller.rb",
+		"/Users/abudker/workspace/rails/sample_app/app/helpers/users_helper.rb",
+		"/Users/abudker/workspace/rails/sample_app/db/migrate/20120527012651_add_index_to_users_email.rb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/abudker/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/abudker/workspace/rails/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/abudker/workspace/rails/sample_app/public/index.html",
+		"/Users/abudker/workspace/rails/sample_app/app/controllers/application_controller.rb",
+		"/Users/abudker/Documents/Animation Planning Notes",
+		"/Users/abudker/Library/Application Support/Sublime Text 2/Packages/RubyTest/Theme - Default/Widget.sublime-settings",
+		"/Users/abudker/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			"'/static_pages/home'",
+			"'/static_pages/about'",
+			"'/static_pages/contact'",
+			"highlight_modified_tabs",
+			"have_content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"root_path",
+			"about_path",
+			"contact_path"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"users",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"sho",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userscon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"add",
+				"db/migrate/20120527012651_add_index_to_users_email.rb"
+			],
+			[
+				"helop",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"_he",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"_foot",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"st",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"staticpa",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"he",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"about",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"hel",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"ho",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"ab",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"statis",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"hom.",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"staticpages",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"config.rb",
+				"config/routes.rb"
+			],
+			[
+				"ind",
+				"public/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
