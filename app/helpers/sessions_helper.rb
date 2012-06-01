@@ -15,6 +15,13 @@ module SessionsHelper
   def signed_in?
     !current_user.nil?
   end
+
+  def signed_in_user
+    unless signed_in?
+      store_location
+      redirect_to signin_path, notice: "Please sign in."
+    end
+  end
   
   def sign_in(user)
     cookies[:remember_token] = { value:   user.remember_token,
@@ -35,4 +42,5 @@ module SessionsHelper
   def store_location
     session[:return_to] = request.fullpath
   end
+
 end

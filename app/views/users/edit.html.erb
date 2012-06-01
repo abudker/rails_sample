@@ -3,7 +3,7 @@
 
 <div class="row">
   <div class="span6 offset3">
-    <%= render 'users/user_form' %>
+    <%= render 'shared/error_messages', object: f.object %>
 
     <%= gravatar_for @user %>
     <a href="http://gravatar.com/emails">change</a>
